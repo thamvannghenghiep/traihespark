@@ -1395,5 +1395,14 @@ a:focus {
     }
 }
 
+@media (max-width: 992px) {
+    .slider_section .detail-box h1 {
+        font-size: 3rem;
+        line-height: 1.2;
+        word-break: break-word;
+        margin-top: 50px;
+    }
+}
+
 
 
