@@ -279,8 +279,7 @@
     }
 
     .slider_section .img-box {
-        margin: 50px;
-        margin-top: 0 !important;
+        margin: 0 auto !important;
     }
 
     .slider_section .img-box img {
