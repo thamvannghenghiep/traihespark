@@ -617,7 +617,8 @@ a:focus {
 .custom-banner-text .slogan {
     color: #000f46 !important;
     font-weight: 600;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0 !important;
     font-size: 22px !important;
 }
 
