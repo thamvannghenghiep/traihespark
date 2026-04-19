@@ -775,7 +775,8 @@ a:focus {
 }
 
 .day-card ul {
-    padding-left: 0;
+    text-align: left;
+    padding-left: 20px;
     list-style: none;
     font-size: 15px;
     color: #444;
